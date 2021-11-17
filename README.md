@@ -6,7 +6,7 @@ use openapi-generator to create sdk based on different library for cloud tower.
 
 There is already two sdk been generated:
 
-- cloudtower-java-sdk-retrofit2, using retrofit2;
+- ~~cloudtower-java-sdk-retrofit2, using retrofit2;~~ (temporary removed, need testing)
 - cloudtower-java-sdk-okhttp-gson, using okhttp3 as httpclient with gson 2.8.x, required Java 8+.
 
 To install jar locally, check `dist/<library>` and install,
